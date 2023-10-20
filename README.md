@@ -1,2 +1,3 @@
 # college_project
-projects completed during college
+project completed during college
+project read weather data and visualize information using pandas
